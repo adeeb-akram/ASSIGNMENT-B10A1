@@ -53,3 +53,14 @@ nav ul li{
     font-weight: 400;
     text-align: center;
 }
+
+.main-containers {text-align: center;
+    justify-content:center;
+    padding: 80px 97px;
+    margin: 180px 152px 2993px 152px;
+}
+
+.main-container-1{
+    display: flex;
+    gap: 100px;
+}
